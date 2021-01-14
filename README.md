@@ -22,7 +22,7 @@ The purpose of the Election Audit was to help Tom and Seth find the results of t
     -  Diana Anthony Doane, who received 73.8% of the vote and 272,892 number of votes.
     
 ## Election Audit Summary 
-With this script we can track results of different elections.  We are able to modify the script to tailor to the specific election. We can do this by replacing the election_results.csv with another election data set.  We could also modify this script to find out other information about the election and voters, such as finding the percent of the state population and each county's population that voted. Also, we could find the canidate results by county.  This script is versitile and can be used in many ways to find election results for different elections. 
+With this script we can track results of different elections.  We are able to modify the script to tailor to the specific election. We can do this by replacing the election_results.csv with another election data set.  We could also modify this script to find out other information about the election and voters, such as finding the percent of the state population and each county's population that voted. Also, the canidate results by county can be found.  This script is versitile and can be used in many ways to find election results for different elections. 
 
     
 
